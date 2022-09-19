@@ -55,9 +55,14 @@ font-size: 1.2em;
 border-radius: 5px;
 margin: auto;
 background: linear-gradient(rgb(155, 229, 186), rgb(165, 146, 185) , rgb(228, 151, 221));
+margin-top: 30px;
 
 }
 
 #niv{
   font-size: 1.2em;
+}
+
+#display{
+    padding-top: 80px;
 }
