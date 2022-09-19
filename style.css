@@ -1,0 +1,63 @@
+
+
+
+body{
+    margin: auto;
+    text-align: center;
+    background-image: url("/v960-ning-30.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+h1{
+    color: rgb(3, 36, 25);
+}
+h3{
+    color: rgb(108, 112, 151);
+}
+
+span{
+    color: black;
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+
+.divv{
+    width: 50%;
+    margin: auto;
+    padding: 70px;
+    margin-top: 150px;
+    border-radius: 10px;
+background: linear-gradient(rgb(212, 219, 178), rgb(211, 192, 195) , rgb(22, 166, 202));
+
+}
+
+input{
+    color: blue;
+    font-weight: bolder;
+    border-radius: 5px;
+    background-color: azure;
+    font-size: 1em;
+}
+
+button{
+    border-radius: 5px;
+    font-size: 1em;
+    background: linear-gradient(rgb(155, 229, 186), rgb(165, 146, 185) , rgb(228, 151, 221));
+}
+.espace{
+    padding: 10px;
+}
+
+#partie{
+display: none;
+font-size: 1.2em;
+border-radius: 5px;
+margin: auto;
+background: linear-gradient(rgb(155, 229, 186), rgb(165, 146, 185) , rgb(228, 151, 221));
+
+}
+
+#niv{
+  font-size: 1.2em;
+}
